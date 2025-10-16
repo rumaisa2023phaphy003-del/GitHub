@@ -1,0 +1,26 @@
+# Core data science packages
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0
+
+# Machine learning packages
+scikit-learn>=1.3.0
+joblib>=1.3.0
+xgboost>=1.7.0
+lightgbm>=3.3.0
+
+# Materials science packages
+matminer>=0.8.0
+pymatgen>=2023.5.0
+
+# Additional utilities
+warnings
+os
+sys
+argparse
+datetime
+pickle
+json
+shutil
